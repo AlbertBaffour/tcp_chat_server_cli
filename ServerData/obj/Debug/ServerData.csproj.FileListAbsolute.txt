@@ -1,0 +1,6 @@
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\ServerData\bin\Debug\ServerData.dll
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\ServerData\bin\Debug\ServerData.pdb
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\ServerData\obj\Debug\ServerData.csproj.AssemblyReference.cache
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\ServerData\obj\Debug\ServerData.csproj.CoreCompileInputs.cache
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\ServerData\obj\Debug\ServerData.dll
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\ServerData\obj\Debug\ServerData.pdb

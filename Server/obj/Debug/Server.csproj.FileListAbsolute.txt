@@ -1,0 +1,11 @@
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\bin\Debug\Server.exe.config
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\bin\Debug\Server.exe
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\bin\Debug\Server.pdb
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\bin\Debug\ServerData.dll
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\bin\Debug\ServerData.pdb
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\obj\Debug\Server.exe
+C:\Users\baffo\OneDrive\Desktop\TCP\simple-tcp-client-server-chat\Server\obj\Debug\Server.pdb
